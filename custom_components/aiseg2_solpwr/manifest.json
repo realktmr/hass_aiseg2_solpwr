@@ -1,0 +1,11 @@
+{
+  "domain": "aiseg2_solpwr",
+  "name": "AiSEG2 Solar Power",
+  "version": "0.1.0",
+  "documentation": "https://github.com/realktmr/hass_aiseg2_solpwr",
+  "requirements": ["requests", "lxml"],
+  "dependencies": [],
+  "codeowners": ["@realktmr"],
+  "iot_class": "local_polling",
+  "config_flow": true
+}
